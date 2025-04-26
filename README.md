@@ -21,24 +21,30 @@ Ce simulateur utilise :
 
 ---
 
-## 📚 Utilisation
+## 🔥 À propos du projet
 
-1. Installez les dépendances :
-```bash
-pip install colorama
-2.Lancez le script :
-python fb_bruteforce_simulator_v2.py
+La cybersécurité devient chaque jour plus importante.  
+**Facebook Bruteforce Simulator v2** est né d'un besoin : **former** les passionnés aux mécanismes d'attaques classiques, dans un cadre **sécurisé** et **éthique**.
 
+Ce projet simule un environnement de bruteforce :
+- Sans nuire à de vrais comptes ou services
+- Avec des systèmes réalistes comme les délais, les erreurs réseau et les CAPTCHA
+- En respectant les bonnes pratiques d'apprentissage en cybersécurité offensive
 
-⚡ Caractéristiques
-Multithread bruteforce simulator
+Développé avec passion par **[@DARK_DANTE_OFF](https://t.me/DARK_DANTE_OFF)**,  
+ce projet vise à **éduquer**, **inspirer** et **responsabiliser** la future génération de hackers éthiques. 🧠💻
 
-Gestion automatique des délais et des faux blocages
+---
 
-Logging complet des tentatives
+## 🌍 Objectifs du projet
 
-Compatible Termux, Linux, Windows
+- **Éducation :** comprendre comment fonctionnent les attaques par force brute.
+- **Prévention :** apprendre à détecter et bloquer ces attaques dans des systèmes réels.
+- **Formation :** encourager la curiosité et la pratique dans un cadre légal.
+- **Contribuer :** ouvrir un espace pour que d'autres puissent améliorer et enrichir l'outil.
 
-🚀 Auteur
-Développé par @DARK_DANTE_OFF
-Pour l'apprentissage et la sensibilisation à la cybersécurité.
+---
+
+> _"Celui qui comprend comment un système est attaqué, est celui qui saura mieux le défendre."_ – **DARK_DANTE_OFF**
+
+---
